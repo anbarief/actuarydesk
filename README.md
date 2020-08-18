@@ -2,13 +2,13 @@
 
 These modules are aimed to become a tool for actuary to model and analyze simple products or for actuarial students who wants to practice. 
 
-Requirement:
-
--Python 3
-
--Pandas
+Date: 18-8-2020
+Author: Arief Anbiya - anbarief (at) live (dot) com
+Requirements: Python 3, Pandas
 
 ---
+
+Documentation: 
 
 Example of using the `financial_math.py`: analysing the growth of money from investments made at time 0, 1, and 1.5 with amount of 100, 100, and 200 respectively.
 Assuming the interest rate is 0.04 annually for the first year and 0.03 semi-annually after that.
