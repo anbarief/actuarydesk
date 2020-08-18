@@ -1,6 +1,6 @@
 # actuarydesk
 
-These modules are aimed to become a tool for actuary to model and analyze simple products or for actuarial students who wants to practice. 
+These modules are aimed to become a tool for actuary to model and analyze simple products or for actuarial students to practice. 
 
 Date: 18-8-2020
 
