@@ -3,7 +3,9 @@
 These modules are aimed to become a tool for actuary to model and analyze simple products or for actuarial students who wants to practice. 
 
 Requirement:
+
 -Python 3
+
 -Pandas
 
 ---
@@ -44,5 +46,7 @@ cashflow = model.cashflow_df(65)
 ---
 
 The tables are collected from:
+
 -https://www.ons.gov.uk/
+
 -https://mort.soa.org/
