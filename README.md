@@ -41,14 +41,10 @@ int_rate = [fm.InterestRate(0, 0.05, 'annual')]
 x = 50; term = 15;
 benefits = [am.Benefit(i, 10000) for i in range(x+1, x+term+1)]
 ins_model = am.TermLifeInsurance(x, term, benefits, int_rate, table)
-model = am.ActuarialModel(ins_model, 'level-due', 2020)
+model = am.ActuarialModel(ins_model, ['due', 'annual'], 2020)
 reserves = model.reserves_dynamics_df(0.5, 70)
 cashflow = model.cashflow_df(65)
 ```
 ---
 
-The tables are collected from:
-
--https://www.ons.gov.uk/
-
--https://mort.soa.org/
+The tables are collected from: https://www.ons.gov.uk/ , https://mort.soa.org/
