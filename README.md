@@ -28,6 +28,7 @@ Assuming the interest rate is 0.04 annually for the first year and 0.03 semi-ann
 ```
 
 import actuarydesk.financial_math as fm
+
 deposits = [fm.Contribution(0, 100), \
             fm.Contribution(1, 100), \
             fm.Contribution(1.5, 200)]
