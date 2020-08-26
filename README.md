@@ -10,9 +10,19 @@ Version: 0.0.4
 
 Requirements: Python >= 3.6, Pandas
 
+website: https://pypi.org/project/actuarydesk/
+
 ---
 
 Documentation: [document.pdf](https://github.com/anbarief/actuarydesk/raw/master/document.pdf)
+
+---
+
+Installation:
+
+```py -m pip install actuarydesk```
+
+---
 
 Example of using the `financial_math.py`: analysing the growth of money from investments made at time 0, 1, and 1.5 with amount of 100, 100, and 200 respectively.
 Assuming the interest rate is 0.04 annually for the first year and 0.03 semi-annually after that.
