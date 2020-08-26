@@ -6,6 +6,8 @@ Date: 18-8-2020
 
 Author: Arief Anbiya - anbarief (at) live (dot) com
 
+Version: 0.0.4
+
 Requirements: Python 3, Pandas
 
 ---
@@ -17,7 +19,7 @@ Assuming the interest rate is 0.04 annually for the first year and 0.03 semi-ann
 
 ```
 
-import financial_math as fm
+import actuarydesk.financial_math as fm
 deposits = [fm.Contribution(0, 100), \
             fm.Contribution(1, 100), \
             fm.Contribution(1.5, 200)]
@@ -37,9 +39,9 @@ payable at the end year of death, the level-premium are paid at beginning of eac
 
 ```
 
-import financial_math as fm
-import actuarial_tables as at
-import actuarial_math as am
+import actuarydesk.financial_math as fm
+import actuarydesk.actuarial_tables as at
+import actuarydesk.actuarial_math as am
 
 table = at.UK_ONS_2016_to_2018_male
 int_rate = [fm.InterestRate(0, 0.05, 'annual')]
