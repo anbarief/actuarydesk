@@ -18,9 +18,7 @@ Documentation: [document.pdf](https://github.com/anbarief/actuarydesk/raw/master
 
 ---
 
-Installation:
-
-```py -m pip install actuarydesk```
+Installation: `py -m pip install actuarydesk`
 
 ---
 
