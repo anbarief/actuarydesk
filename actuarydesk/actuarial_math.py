@@ -3,8 +3,8 @@ import random
 
 import pandas
 
-import actuarial_tables as at
-import financial_math as fm
+import actuarydesk.actuarial_tables as at
+import actuarydesk.financial_math as fm
 
 
 def t_p_x(x, t, table):
