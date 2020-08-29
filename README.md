@@ -2,11 +2,11 @@
 
 These modules are aimed to become a tool for actuary to model and analyze simple products or for actuarial students to practice. 
 
-Date: 26-8-2020
+Date: 29-8-2020
 
 Author: Arief Anbiya - anbarief (at) live (dot) com
 
-Version: 0.0.4
+Version: 0.0.6
 
 Requirements: Python >= 3.6, Pandas
 
