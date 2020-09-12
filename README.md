@@ -6,7 +6,7 @@ Date: 29-8-2020
 
 Author: Arief Anbiya - anbarief (at) live (dot) com
 
-Version: 0.0.6
+Version: 0.1.4
 
 Requirements: Python >= 3.6, Pandas
 
