@@ -14,7 +14,8 @@ website: https://pypi.org/project/actuarydesk/
 
 ---
 
-Documentation: [document.pdf](https://github.com/anbarief/actuarydesk/raw/master/document.pdf)
+Documentation: ....
+
 Dataset download for `math_economics_viz`: [dataset link](https://drive.google.com/drive/folders/1n8XRWpmX1tOz1Uu1PaT9gXv9Feu4-k5i?usp=sharing)
 
 ---
