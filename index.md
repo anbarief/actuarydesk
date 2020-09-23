@@ -1,5 +1,3 @@
-<img src="logo_1.png" alt="logo" width="300"/>
-
 ## Welcome to Actuarydesk page
 
 Download the dataset for `math_economics_viz` from Google drive here: <a href="https://drive.google.com/drive/folders/1n8XRWpmX1tOz1Uu1PaT9gXv9Feu4-k5i?usp=sharing" target="_blank">link</a>
