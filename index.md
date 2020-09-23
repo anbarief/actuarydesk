@@ -1,6 +1,6 @@
 ## Welcome to Actuarydesk page
 
-Download the dataset for `math_economics_viz` from Google drive here: [link](https://drive.google.com/drive/folders/1n8XRWpmX1tOz1Uu1PaT9gXv9Feu4-k5i?usp=sharing)
+Download the dataset for `math_economics_viz` from Google drive here: <a href="https://drive.google.com/drive/folders/1n8XRWpmX1tOz1Uu1PaT9gXv9Feu4-k5i?usp=sharing" target="_blank">link</a>
 
 You can use the [editor on GitHub](https://github.com/anbarief/actuarydesk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
