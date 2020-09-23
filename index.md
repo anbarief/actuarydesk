@@ -1,4 +1,4 @@
-<img src="https://github.com/anbarief/actuarydesk/blob/master/logo.png" alt="logo" width="30"/>
+<img src="https://github.com/anbarief/actuarydesk/logo.png" alt="logo" width="30"/>
 
 ## Welcome to Actuarydesk page
 
