@@ -1,4 +1,4 @@
-<img src="logo_1.png" alt="logo" width="50"/>
+<img src="logo_1.png" alt="logo" width="100"/>
 
 ## Welcome to Actuarydesk page
 
