@@ -1,4 +1,4 @@
-# actuarydesk
+# Actuarydesk
 
 These modules are aimed to become a tool for actuary to model and analyze simple products or for actuarial students to practice. 
 
@@ -6,11 +6,11 @@ Date: 29-8-2020
 
 Author: Arief Anbiya - anbarief (at) live (dot) com
 
-Version: 0.1.4
+Version: 0.2.0
 
 Requirements: Python >= 3.6, Pandas
 
-website: https://anbarief.github.io/actuarydesk/
+Website: https://anbarief.github.io/actuarydesk/
 
 Dataset download for `math_economics_viz`: [dataset link](https://drive.google.com/drive/folders/1n8XRWpmX1tOz1Uu1PaT9gXv9Feu4-k5i?usp=sharing)
 
