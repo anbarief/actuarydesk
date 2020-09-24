@@ -1,34 +1,13 @@
 ## Welcome to Actuarydesk page
 
-Download the dataset for `math_economics_viz` from Google drive here: <a href="https://drive.google.com/drive/folders/1n8XRWpmX1tOz1Uu1PaT9gXv9Feu4-k5i?usp=sharing" target="_blank">link</a>
+The package has three core modules for modelling simple products: `financial_math`, `actuarial_tables`, and `actuarial_math`.
+In the `math_economics_viz`, there are Python modules for visualization examples, e.g: stochastic random walk, US Treasury interest rates, world development indicator, and may be more. In current version, only the `stochastic_random_walk.py` that don't need any dataset. Download the dataset for `math_economics_viz` from Google drive here: <a href="https://drive.google.com/drive/folders/1n8XRWpmX1tOz1Uu1PaT9gXv9Feu4-k5i?usp=sharing" target="_blank">link</a>
 
-You can use the [editor on GitHub](https://github.com/anbarief/actuarydesk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## financial_math
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## actuarial_tables 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-``` 
-
-For more details see[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## actuarial_math
 
 ### Jekyll Themes
 
