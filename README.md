@@ -2,7 +2,7 @@
 
 These modules are aimed to become a tool for actuary to model and analyze simple products or for actuarial students to practice. 
 
-Date: 29-8-2020
+Published: 29-8-2020
 
 Author: Arief Anbiya - anbarief (at) live (dot) com
 
