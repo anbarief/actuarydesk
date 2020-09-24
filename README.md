@@ -10,11 +10,7 @@ Version: 0.1.4
 
 Requirements: Python >= 3.6, Pandas
 
-website: https://pypi.org/project/actuarydesk/
-
----
-
-Documentation: ....
+website: https://anbarief.github.io/actuarydesk/
 
 Dataset download for `math_economics_viz`: [dataset link](https://drive.google.com/drive/folders/1n8XRWpmX1tOz1Uu1PaT9gXv9Feu4-k5i?usp=sharing)
 
