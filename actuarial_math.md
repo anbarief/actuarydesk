@@ -23,7 +23,7 @@ minimum_premium = termlife.minimum_level_premium()
 
 ---
 
-The code below shows an example of generating a cashflow for a particular policy: insured age 50 with a 15-year term life insurance, the benefit amount is 10000 payable at the end year of death. The level-premium are paid at beginning of each year until term ends or as long as survival.
+The code below shows an example of generating a cashflow for a particular model: insured age 50 with a 15-year term life insurance, the benefit amount is 10000 payable at the end year of death. The level-premium are paid at beginning of each year until term ends or as long as survival.
 
 ```
 import actuarydesk.financial_math as fm
