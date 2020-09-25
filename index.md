@@ -1,7 +1,5 @@
 ## Welcome to Actuarydesk page 
 
-<iframe src="https://ghbtns.com/github-btn.html?user=anbarief&repo=actuarydesk&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>  
-
 The package has three core modules for modelling simple products: `financial_math`, `actuarial_tables`, and `actuarial_math`.
 
 ## <a href="https://anbarief.github.io/actuarydesk/financial_math">financial_math</a>, <a href="https://anbarief.github.io/actuarydesk/actuarial_tables">actuarial_tables</a>, <a href="https://anbarief.github.io/actuarydesk/actuarial_math">actuarial_math</a>
@@ -12,8 +10,8 @@ The `actuarydesk.math_economics_viz` folder consists of Python modules for visua
 
 Installation: `py -m pip install actuarydesk`
 
+Python version: >= 3.7
+
 ---
 
-<img src="python_powered.png" width="100">
-
- 
+<iframe src="https://ghbtns.com/github-btn.html?user=anbarief&repo=actuarydesk&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
