@@ -1,6 +1,7 @@
 ### actuarial_tables
 
-In current version, the available tables are only mortality tables.
+In current version, the available tables are only mortality tables. 
+The tables are collected from: https://www.ons.gov.uk/ , https://mort.soa.org/.
 
 ## Usage example:
 
