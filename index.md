@@ -1,4 +1,4 @@
-## Welcome to Actuarydesk page
+## Welcome to Actuarydesk page <iframe src="https://ghbtns.com/github-btn.html?user=anbarief&repo=actuarydesk&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>  
 
 The package has three core modules for modelling simple products: `financial_math`, `actuarial_tables`, and `actuarial_math`.
 
@@ -12,8 +12,6 @@ Installation: `py -m pip install actuarydesk`
 
 ---
 
-<iframe src="https://ghbtns.com/github-btn.html?user=anbarief&repo=actuarydesk&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>  
-
-![6cm](python_powered.png)
+<img src="https://github.com/anbarief/actuarydesk/blob/gh-pages/python_powered.png" width="10">
 
  
