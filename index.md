@@ -12,6 +12,6 @@ Installation: `py -m pip install actuarydesk`
 
 ---
 
-<img src="https://github.com/anbarief/actuarydesk/blob/gh-pages/python_powered.png" width="10">
+<img src="https://github.com/anbarief/actuarydesk/blob/gh-pages/python_powered.png" width="100">
 
  
