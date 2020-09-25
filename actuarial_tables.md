@@ -2,7 +2,7 @@
 
 ## Usage example:
 
-The code below gets the value of $latex q_{20}$
+The code below gets the value of $q_{20}$
 
 ```
 import actuarydesk.actuarial_tables as at
