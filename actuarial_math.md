@@ -33,8 +33,10 @@ import actuarydesk.actuarial_math as am
 table = at.UK_ONS_2016_to_2018_male
 int_rate = [fm.InterestRate(0, 0.05, 'annual')]
 x = 50; term = 15;
+
 benefits = [am.Benefit(i, 10000) for i in range(x+1, x+term+1)]
 ins_model = am.TermLifeInsurance(x, term, benefits, int_rate, table)
+
 model = am.ActuarialModel(ins_model, ['due', 'annual'], 2020)
 reserves = model.reserves_dynamics_df(0.5, 70)
 cashflow = model.cashflow_df(65)
