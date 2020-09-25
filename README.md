@@ -41,7 +41,7 @@ present_value = timeline.value_at(0)
 
 ```
 
-Example of generating a cashflow for a particular policy modeled by a particular actuarial model: insured age 50 with a 15-year life insurance term, the benefit amount is 10000 
+Example of generating a cashflow for a particular actuarial model: insured age 50 with a 15-year life insurance term, the benefit amount is 10000 
 payable at the end year of death, the level-premium are paid at beginning of each year until term ends or as long as survival.
 
 ```
